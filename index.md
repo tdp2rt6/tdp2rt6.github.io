@@ -2,4 +2,5 @@
 layout: home 
 ---
 
-Welcome to my new blog!
+Halo!
+Apa mau dibikin disini?

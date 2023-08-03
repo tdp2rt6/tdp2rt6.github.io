@@ -5,6 +5,5 @@ author:
   email: b3ny@msn.com
 description: "Tentang apa lanjut baca di Github.com Jekyll on GH-Pages."
 
-# Build settings
+# Build settings 
 remote_theme: jekyll/minima
-# remote_theme: benbalter/retlab

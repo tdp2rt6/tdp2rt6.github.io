@@ -6,5 +6,5 @@ author:
 description: "Tentang apa lanjut baca di Github.com Jekyll on GH-Pages."
 
 # Build settings
-# remote_theme: jekyll/minima
-remote_theme: benbalter/retlab
+remote_theme: jekyll/minima
+# remote_theme: benbalter/retlab

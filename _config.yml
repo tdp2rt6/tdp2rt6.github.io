@@ -1,9 +1,9 @@
 # Site settings
-title: Start Title
+title: Judul Apa
 author:
   name: Z Ben
   email: b3ny@msn.com
-description: "Learn about Jekyll on GH-Pages."
+description: "Tentang apa lanjut baca di Github.com Jekyll on GH-Pages."
 
 # Build settings
 remote_theme: jekyll/minima

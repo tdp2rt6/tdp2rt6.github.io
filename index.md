@@ -2,4 +2,5 @@
 layout: home 
 ---
 
-Halo! Apa mau dibikin disini?
+Halo! 
+Apa mau dibikin disini?
